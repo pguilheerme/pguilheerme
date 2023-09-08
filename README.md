@@ -3,7 +3,7 @@
 [![LinkendIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-guilherme-silva/)
 
 <div align="center">
-    <img height="180em" src= "https://github-readme-stats-sigma-five.vercel.app/api?username=pguilheermea&show_icons=true&theme=radical)">
+    <img height="180em" src= "https://github-readme-stats-sigma-five.vercel.app/api?username=pguilheerme&show_icons=true&theme=radical)">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pguilheerme&layout=compact&langs_count=7&theme=dark" alt='pguilheerme'>
 </div>
 
