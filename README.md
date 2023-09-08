@@ -3,8 +3,8 @@
 [![LinkendIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-guilherme-silva/)
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pguilheerme&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt='pguilheerme'/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pguilheerme&layout=compact&langs_count=7&theme=dark" alt='pguilheerme'>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pguilheerme&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt='pguilheerme'/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pguilheerme&layout=compact&langs_count=7&theme=dark" alt='pguilheerme'>
 </div>
 
 ## Tecnologias Utilizadas por mim no cotidiano:
