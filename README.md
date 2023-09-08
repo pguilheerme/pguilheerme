@@ -5,7 +5,7 @@
 <div align="center">
     <a href="https://github.com/pguilheerme">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pguilheerme&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pguilheerme&layout=compact&langs_count=7&theme=dark" alt='pguilheerme'>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pguilheerme&layout=compact&langs_count=7&theme=dark" alt='pguilheerme'>
 </div>
 
 ## Tecnologias Utilizadas por mim no cotidiano:
