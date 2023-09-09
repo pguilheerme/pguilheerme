@@ -27,5 +27,5 @@
 <a href="mailto:pedroguinasc2002@gmail.com" _target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-
+![Snake animation](https://github.com/pguilheerme/pguilheerme/blob/output/github-contribution-grid-snake.svg)
 
