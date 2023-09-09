@@ -5,7 +5,7 @@
 <div>
     <img src="https://i.pinimg.com/originals/ff/0c/70/ff0c7036ec6ccc0eafc1021431b17e7f.gif" width="150" align="right">
     <p align="left">
-        I'm Pedro Guilherme, a passionate teenage Web Developer programmer with a love for coding and building innovative solutions. I'm constantly exploring new technologies and honing my skills to create exciting            projects. Let's collaborate and bring our ideas to life!
+         A passionate teenage Web Developer programmer with a love for coding and building innovative solutions. I'm constantly exploring new technologies and honing my skills to create exciting            projects. Let's collaborate and bring our ideas to life!
     </p>
 </div>
 
