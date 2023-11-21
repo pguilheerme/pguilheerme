@@ -16,7 +16,7 @@
 ## 🌟 Github Stats
  <p align="center"> 
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pguilheerme&show_icons=true&theme=radical" media="(prefers-color-scheme: radical)" alt="Pedro Guilherme"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" media="(prefers-color-scheme: radical) alt="Pedro Guilherme" height="195"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pguilheerme&layout=compact&theme=radical" media="(prefers-color-scheme: radical) alt="Pedro Guilherme" height="195"/>
 </p>
 
 
