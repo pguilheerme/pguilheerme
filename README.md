@@ -1,10 +1,10 @@
-# <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=30&color=80AFF7&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+Welcome+here!+👋;I'm+Pedro+Guilherme" alt="Typing SVG" /></a></h1>
+# <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F79300&center=true&vCenter=true&width=435&lines=Hi%2C+Welcome+here;I%C2%B4m+Pedro+Guilherme" alt="Typing SVG" /></a></h1>
 
 <br/>
 
 <div style = ''>
     <div align="center">
-    <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align= "center" >
+    <img alt="Coder GIF" height=250 width=350 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2g0cTM1amlnZjVvYzkyNDAxa3hkdjFrMXhxMzVtbHB3eWhwaGI3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" align= "center" >
     </div>
     <br/>
     <br/>
