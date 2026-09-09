@@ -22,38 +22,39 @@
 
   <div align="center">
 
-<table>
-  <tr>
-    <td width="370" align="center" valign="middle">
-      <img
-        src="./pguilheerme-ascii.svg"
-        width="350"
-        alt="Pedro Guilherme ASCII portrait"
-      />
-    </td>
+<div align="center">
 
-<td width="300" align="left" valign="middle">
-  <h3 align="center">About me</h3>
+<img
+  src="./pguilheerme-ascii.svg"
+  width="340"
+  align="left"
+  hspace="30"
+  alt="Pedro Guilherme ASCII portrait"
+/>
 
-  <p align="left">
-    Software developer focused on building modern, scalable and useful
-    applications.
-  </p>
+<h3>About me</h3>
 
-  <p align="left">
-    I work across web development, backend systems, databases and
-    data-driven solutions, always exploring new technologies and turning
-    real-world problems into software.
-  </p>
+Software developer focused on building modern, scalable<br>
+and useful applications.
 
-  <p align="left">
-    Currently working with technologies such as React, TypeScript,
-    NestJS, PostgreSQL and modern web architectures.
-  </p>
-</td>
+<br>
 
-  </tr>
-</table>
+I work across web development, backend systems,<br>
+databases and data-driven solutions, always exploring<br>
+new technologies and turning real-world problems<br>
+into software.
+
+<br>
+
+Currently working with technologies such as React,<br>
+TypeScript, NestJS, PostgreSQL and modern web<br>
+architectures.
+
+<br clear="both">
+
+</div>
+
+<br clear="both" />
 
 </div>
 
@@ -84,37 +85,28 @@
 
   <h3><code>pguilheerme@github ~ $ ./connect.sh</code></h3>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/pedro-guilherme-silva">
-        <img
-          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-          alt="LinkedIn"
-        />
-      </a>
-    </td>
-
-<td align="center">
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-guilherme-silva">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;
   <a href="https://www.instagram.com/pguilheerme/">
     <img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
     />
   </a>
-</td>
-
-<td align="center">
+  &nbsp;
   <a href="mailto:pedroguinasc2002@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail"
     />
   </a>
-</td>
-
-  </tr>
-</table>
+</div>
 
   <br />
   <br />

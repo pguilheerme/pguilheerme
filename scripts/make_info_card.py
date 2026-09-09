@@ -6,13 +6,32 @@ OUTPUT = Path("info-card.svg")
 STATIC = os.getenv("STATIC") == "1"
 
 WIDTH = 720
-HEIGHT = 250
+HEIGHT = 290
 
 rows = [
-    ("Now", "Supervisor de Tecnologia e Inovação"),
-    ("Prev", "StageTree • Desenvolvedor de Software"),
-    ("Stack", "React • Next.js • React Native • Node.js • TypeScript • NestJS • PostgreSQL"),
-    ("Highlights", "SIMOV • SISAT • Mobile • Data & BI"),
+    (
+        "Now",
+        ["Supervisor de Tecnologia e Inovação"],
+        95,
+    ),
+    (
+        "Prev",
+        ["StageTree • Desenvolvedor de Software"],
+        135,
+    ),
+    (
+        "Stack",
+        [
+            "React • Next.js • React Native • Node.js",
+            "TypeScript • NestJS • PostgreSQL",
+        ],
+        175,
+    ),
+    (
+        "Highlights",
+        ["SIMOV • SISAT • Mobile • Data & BI"],
+        235,
+    ),
 ]
 
 ACCENT = "#7aa2f7"
@@ -26,9 +45,12 @@ def escape(value: str) -> str:
     return html.escape(value)
 
 
-def make_row(index: int, key: str, value: str) -> str:
-    y = 95 + (index * 34)
-
+def make_row(
+    index: int,
+    key: str,
+    values: list[str],
+    y: int,
+) -> str:
     if STATIC:
         animation = ""
         transform = ""
@@ -60,6 +82,18 @@ def make_row(index: int, key: str, value: str) -> str:
         transform = 'transform="translate(12 0)"'
         opacity = "0"
 
+    value_lines = ""
+
+    for line_index, line in enumerate(values):
+        dy = "0" if line_index == 0 else "20"
+
+        value_lines += f"""
+            <tspan
+                x="150"
+                dy="{dy}"
+            >{escape(line)}</tspan>
+        """
+
     return f"""
     <g opacity="{opacity}" {transform}>
         <text
@@ -72,7 +106,9 @@ def make_row(index: int, key: str, value: str) -> str:
             x="150"
             y="{y}"
             class="value"
-        >{escape(value)}</text>
+        >
+            {value_lines}
+        </text>
 
         {animation}
     </g>
@@ -80,8 +116,8 @@ def make_row(index: int, key: str, value: str) -> str:
 
 
 rows_svg = "\n".join(
-    make_row(index, key, value)
-    for index, (key, value) in enumerate(rows)
+    make_row(index, key, values, y)
+    for index, (key, values, y) in enumerate(rows)
 )
 
 svg = f"""<svg
@@ -131,9 +167,26 @@ svg = f"""<svg
 />
 
 <!-- Top bar -->
-<circle cx="22" cy="21" r="5" fill="#f7768e"/>
-<circle cx="39" cy="21" r="5" fill="#e0af68"/>
-<circle cx="56" cy="21" r="5" fill="#9ece6a"/>
+<circle
+    cx="22"
+    cy="21"
+    r="5"
+    fill="#f7768e"
+/>
+
+<circle
+    cx="39"
+    cy="21"
+    r="5"
+    fill="#e0af68"
+/>
+
+<circle
+    cx="56"
+    cy="21"
+    r="5"
+    fill="#9ece6a"
+/>
 
 <text
     x="82"

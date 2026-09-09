@@ -1,8 +1,8 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     width="720"
-    height="250"
-    viewBox="0 0 720 250"
+    height="290"
+    viewBox="0 0 720 290"
 >
 
 <style>
@@ -38,16 +38,33 @@
     x="1"
     y="1"
     width="718"
-    height="248"
+    height="288"
     rx="12"
     fill="#1a1b26"
     stroke="#292e42"
 />
 
 <!-- Top bar -->
-<circle cx="22" cy="21" r="5" fill="#f7768e"/>
-<circle cx="39" cy="21" r="5" fill="#e0af68"/>
-<circle cx="56" cy="21" r="5" fill="#9ece6a"/>
+<circle
+    cx="22"
+    cy="21"
+    r="5"
+    fill="#f7768e"
+/>
+
+<circle
+    cx="39"
+    cy="21"
+    r="5"
+    fill="#e0af68"
+/>
+
+<circle
+    cx="56"
+    cy="21"
+    r="5"
+    fill="#9ece6a"
+/>
 
 <text
     x="82"
@@ -86,7 +103,14 @@
             x="150"
             y="95"
             class="value"
-        >Supervisor de Tecnologia e Inovação</text>
+        >
+            
+            <tspan
+                x="150"
+                dy="0"
+            >Supervisor de Tecnologia e Inovação</tspan>
+        
+        </text>
 
         
         <animate
@@ -114,15 +138,22 @@
     <g opacity="0" transform="translate(12 0)">
         <text
             x="34"
-            y="129"
+            y="135"
             class="key"
         >Prev</text>
 
         <text
             x="150"
-            y="129"
+            y="135"
             class="value"
-        >StageTree • Desenvolvedor de Software</text>
+        >
+            
+            <tspan
+                x="150"
+                dy="0"
+            >StageTree • Desenvolvedor de Software</tspan>
+        
+        </text>
 
         
         <animate
@@ -150,15 +181,27 @@
     <g opacity="0" transform="translate(12 0)">
         <text
             x="34"
-            y="163"
+            y="175"
             class="key"
         >Stack</text>
 
         <text
             x="150"
-            y="163"
+            y="175"
             class="value"
-        >React • Next.js • React Native • Node.js • TypeScript • NestJS • PostgreSQL</text>
+        >
+            
+            <tspan
+                x="150"
+                dy="0"
+            >React • Next.js • React Native • Node.js</tspan>
+        
+            <tspan
+                x="150"
+                dy="20"
+            >TypeScript • NestJS • PostgreSQL</tspan>
+        
+        </text>
 
         
         <animate
@@ -186,15 +229,22 @@
     <g opacity="0" transform="translate(12 0)">
         <text
             x="34"
-            y="197"
+            y="235"
             class="key"
         >Highlights</text>
 
         <text
             x="150"
-            y="197"
+            y="235"
             class="value"
-        >SIMOV • SISAT • Mobile • Data &amp; BI</text>
+        >
+            
+            <tspan
+                x="150"
+                dy="0"
+            >SIMOV • SISAT • Mobile • Data &amp; BI</tspan>
+        
+        </text>
 
         
         <animate
