@@ -1,0 +1,222 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="720"
+    height="250"
+    viewBox="0 0 720 250"
+>
+
+<style>
+    .title {
+        font-family: "Courier New", monospace;
+        font-size: 17px;
+        font-weight: bold;
+        fill: #c0caf5;
+    }
+
+    .prompt {
+        font-family: "Courier New", monospace;
+        font-size: 14px;
+        fill: #565f89;
+    }
+
+    .key {
+        font-family: "Courier New", monospace;
+        font-size: 14px;
+        font-weight: bold;
+        fill: #7aa2f7;
+    }
+
+    .value {
+        font-family: "Courier New", monospace;
+        font-size: 14px;
+        fill: #c0caf5;
+    }
+</style>
+
+<!-- Card -->
+<rect
+    x="1"
+    y="1"
+    width="718"
+    height="248"
+    rx="12"
+    fill="#1a1b26"
+    stroke="#292e42"
+/>
+
+<!-- Top bar -->
+<circle cx="22" cy="21" r="5" fill="#f7768e"/>
+<circle cx="39" cy="21" r="5" fill="#e0af68"/>
+<circle cx="56" cy="21" r="5" fill="#9ece6a"/>
+
+<text
+    x="82"
+    y="26"
+    class="title"
+>
+    pguilheerme@github
+</text>
+
+<line
+    x1="0"
+    y1="42"
+    x2="720"
+    y2="42"
+    stroke="#292e42"
+/>
+
+<!-- Command -->
+<text
+    x="34"
+    y="69"
+    class="prompt"
+>
+    $ neofetch --about
+</text>
+
+
+    <g opacity="0" transform="translate(12 0)">
+        <text
+            x="34"
+            y="95"
+            class="key"
+        >Now</text>
+
+        <text
+            x="150"
+            y="95"
+            class="value"
+        >Supervisor de Tecnologia e Inovação</text>
+
+        
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.15s"
+            fill="freeze"
+        />
+
+        <animateTransform
+            attributeName="transform"
+            type="translate"
+            from="12 0"
+            to="0 0"
+            dur="0.35s"
+            begin="0.15s"
+            fill="freeze"
+        />
+        
+    </g>
+    
+
+    <g opacity="0" transform="translate(12 0)">
+        <text
+            x="34"
+            y="129"
+            class="key"
+        >Prev</text>
+
+        <text
+            x="150"
+            y="129"
+            class="value"
+        >StageTree • Desenvolvedor de Software</text>
+
+        
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.27s"
+            fill="freeze"
+        />
+
+        <animateTransform
+            attributeName="transform"
+            type="translate"
+            from="12 0"
+            to="0 0"
+            dur="0.35s"
+            begin="0.27s"
+            fill="freeze"
+        />
+        
+    </g>
+    
+
+    <g opacity="0" transform="translate(12 0)">
+        <text
+            x="34"
+            y="163"
+            class="key"
+        >Stack</text>
+
+        <text
+            x="150"
+            y="163"
+            class="value"
+        >React • Next.js • React Native • Node.js • TypeScript • NestJS • PostgreSQL</text>
+
+        
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.39s"
+            fill="freeze"
+        />
+
+        <animateTransform
+            attributeName="transform"
+            type="translate"
+            from="12 0"
+            to="0 0"
+            dur="0.35s"
+            begin="0.39s"
+            fill="freeze"
+        />
+        
+    </g>
+    
+
+    <g opacity="0" transform="translate(12 0)">
+        <text
+            x="34"
+            y="197"
+            class="key"
+        >Highlights</text>
+
+        <text
+            x="150"
+            y="197"
+            class="value"
+        >SIMOV • SISAT • Mobile • Data &amp; BI</text>
+
+        
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.51s"
+            fill="freeze"
+        />
+
+        <animateTransform
+            attributeName="transform"
+            type="translate"
+            from="12 0"
+            to="0 0"
+            dur="0.35s"
+            begin="0.51s"
+            fill="freeze"
+        />
+        
+    </g>
+    
+
+</svg>
