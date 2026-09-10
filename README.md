@@ -1,12 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F79300&center=true&vCenter=true&width=600&lines=Hi%2C+Welcome+here!;I'm+Pedro+Guilherme"
+      src="https://typingsvg.vercel.app/api/svg?height=50&backgroundOpacity=0&border=false&lines=%5B%7B%22text%22%3A%22System+Booting...%22%2C%22font%22%3A%22San+Francisco%22%2C%22color%22%3A%22%23bfc8f3%22%2C%22fontSize%22%3A32%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%2C%22fontWeight%22%3A%22700%22%7D%2C%7B%22text%22%3A%22Full+Stack+Developer%22%2C%22font%22%3A%22San+Francisco%22%2C%22color%22%3A%22%23bfc8f3%22%2C%22fontSize%22%3A32%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%2C%22fontWeight%22%3A%22700%22%7D%5D"
       alt="Typing SVG"
     />
   </a>
 
-  <br />
   <br />
 
   <h3><code>pguilheerme@github ~ $ whoami</code></h3>
