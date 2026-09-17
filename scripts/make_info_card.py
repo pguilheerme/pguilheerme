@@ -11,12 +11,12 @@ HEIGHT = 290
 rows = [
     (
         "Now",
-        ["Supervisor de Tecnologia e Inovação"],
+        ["Technology and Innovation Supervisor"],
         95,
     ),
     (
         "Prev",
-        ["StageTree • Desenvolvedor de Software"],
+        ["StageTree • Software Developer"],
         135,
     ),
     (
