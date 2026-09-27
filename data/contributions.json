@@ -1,22 +1,22 @@
 {
   "username": "pguilheerme",
-  "generated_at": "2026-09-26T11:22:42Z",
+  "generated_at": "2026-09-27T12:00:19Z",
   "range": {
-    "start": "2025-09-21",
+    "start": "2025-09-28",
+    "end": "2026-09-27"
+  },
+  "total_contributions": 397,
+  "active_days": 111,
+  "avg_per_active_day": 3.6,
+  "current_streak": {
+    "length": 19,
+    "start": "2026-09-08",
     "end": "2026-09-26"
   },
-  "total_contributions": 404,
-  "active_days": 114,
-  "avg_per_active_day": 3.5,
-  "current_streak": {
-    "length": 18,
-    "start": "2026-09-08",
-    "end": "2026-09-25"
-  },
   "longest_streak": {
-    "length": 18,
+    "length": 19,
     "start": "2026-09-08",
-    "end": "2026-09-25"
+    "end": "2026-09-26"
   },
   "best_day": {
     "date": "2026-08-12",
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-09",
-      "total": 8
+      "total": 0
     },
     {
       "month": "2025-10",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-09",
-      "total": 72
+      "total": 73
     }
   ],
   "days": [
-    {
-      "date": "2025-09-21",
-      "count": 0
-    },
-    {
-      "date": "2025-09-22",
-      "count": 2
-    },
-    {
-      "date": "2025-09-23",
-      "count": 1
-    },
-    {
-      "date": "2025-09-24",
-      "count": 0
-    },
-    {
-      "date": "2025-09-25",
-      "count": 4
-    },
-    {
-      "date": "2025-09-26",
-      "count": 1
-    },
-    {
-      "date": "2025-09-27",
-      "count": 0
-    },
     {
       "date": "2025-09-28",
       "count": 0
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-09-26",
+      "count": 1
+    },
+    {
+      "date": "2026-09-27",
       "count": 0
     }
   ]
